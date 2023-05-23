@@ -15,8 +15,8 @@ import Routes from './routs/route.js';
 connection(); 
 
 
- app.listen(3000, () =>{
-    console.log("server is running on localhost : 3000");
+ app.listen(5000, () =>{
+    console.log("server is running on localhost : 5000");
  })
 
 
